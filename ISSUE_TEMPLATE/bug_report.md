@@ -1,3 +1,4 @@
+---
 name: General Discussion / Question
 about: For general inquiries, questions, or open-ended discussions related to DEVHELPCHAT.
 title: "[Discussion] "
